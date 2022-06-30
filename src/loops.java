@@ -18,6 +18,17 @@ public class loops {
             System.out.println("for loop");
         }
 
+        String[] array = {"a", "b", "c", "d"};
+
+        for (String k: array)
+        {
+            System.out.println(k);
+        }
+
+
+
+
+
 
 
 
